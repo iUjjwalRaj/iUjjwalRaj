@@ -26,6 +26,25 @@ Focus: Edge AI, Real-time Computer Vision, Autonomous Systems & Applied ML
 Philosophy: "Building edge AI, computer vision systems, and weird things that probably didn't need to exist."
 ```
 
+### 🎖️ GitHub Achievements & Badges
+
+<div align="center">
+  <a href="https://github.com/iUjjwalRaj?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO" title="YOLO: Merged PR without review" />
+  </a>
+  <a href="https://github.com/iUjjwalRaj?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark" title="Pull Shark: 16+ Merged Pull Requests" />
+  </a>
+  <a href="https://github.com/iUjjwalRaj?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" title="Quickdraw: Closed within 5 minutes" />
+  </a>
+  <a href="https://github.com/iUjjwalRaj?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-765f6f7c10b7.png" width="70" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits" />
+  </a>
+</div>
+
+<br/>
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -61,3 +80,13 @@ Philosophy: "Building edge AI, computer vision systems, and weird things that pr
 | **Infra & Platforms** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 </div>
+
+<br/>
+
+### 🚀 Key Projects
+
+- **[RONOVA](https://github.com/iUjjwalRaj/RONOVA)**: Cinematic interactive fan experience & intelligent dynamic visual interaction system.
+- **[RAAHI](https://github.com/iUjjwalRaj/RAAHI)**: AI-driven urban transit and smart mobility orchestration engine.
+- **[gas-turbine](https://github.com/iUjjwalRaj/gas-turbine)**: Evidence-grounded aerodynamic and turbine health modeling.
+- **[2D-Game_Engine](https://github.com/iUjjwalRaj/2D-Game_Engine)**: Custom 2D graphics and physics engine built from scratch.
+- **[Library Management System](https://github.com/iUjjwalRaj/Library_Management_System)**: Full-stack circulation and inventory platform with JWT authentication.
