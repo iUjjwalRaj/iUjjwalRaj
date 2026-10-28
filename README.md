@@ -26,6 +26,29 @@ Focus: Edge AI, Real-time Computer Vision, Autonomous Systems & Applied ML
 Philosophy: "Building edge AI, computer vision systems, and weird things that probably didn't need to exist."
 ```
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iUjjwalRaj&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Ujjwal's GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iUjjwalRaj&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iUjjwalRaj&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iUjjwalRaj&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
 ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
