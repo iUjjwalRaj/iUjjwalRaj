@@ -55,7 +55,7 @@
     <path d="M68 258H444" stroke="#D6B779" stroke-width="2"/><circle cx="444" cy="258" r="3" fill="#80CFFF"/>
     <text class="urh-mono" x="68" y="302" fill="#F2F1ED" fill-opacity=".62" font-size="11" letter-spacing="2">INTELLIGENT SYSTEMS  /  EDGE AI  /  REAL-TIME EXPERIENCES</text>
   </g>
-  <g transform="translate(82 330)" fill="none" stroke="#D6B779" stroke-width="2">
+  <g transform="translate(82 350)" fill="none" stroke="#D6B779" stroke-width="2">
     <path d="M0 0L17-20 34 0 51-20 68 0" opacity=".75"/><circle cx="17" cy="-20" r="3" fill="#D6B779"/><circle cx="51" cy="-20" r="3" fill="#D6B779"/>
     <text class="urh-mono" x="84" y="5" fill="#F2F1ED" stroke="none" font-size="12" letter-spacing="2">UR / SYSTEMS IN MOTION</text>
   </g>
