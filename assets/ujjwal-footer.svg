@@ -1,25 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="urf-title urf-desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="urf-title urf-desc">
   <title id="urf-title">Ujjwal Raj closing statement</title>
   <desc id="urf-desc">A restrained midnight neural network with champagne-gold nodes, violet paths, and Ujjwal Raj's philosophy.</desc>
-  <defs>
-    <linearGradient id="urf-border" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".55"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".45"/></linearGradient>
-    <linearGradient id="urf-line" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".15"/><stop offset=".5" stop-color="#D6B779"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".25"/></linearGradient>
-  </defs>
-  <style>
-    .urf-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
-    .urf-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
-    .urf-pulse{animation:urf-pulse 3.4s ease-in-out infinite}
-    @keyframes urf-pulse{0%,100%{opacity:.25}50%{opacity:1}}
-    @media(prefers-reduced-motion:reduce){.urf-pulse{animation:none;opacity:.7}}
-  </style>
-  <rect width="1200" height="150" rx="18" fill="#090B10" stroke="url(#urf-border)"/>
-  <g fill="none" stroke="url(#urf-line)" stroke-linecap="round">
-    <path d="M0 124C110 82 164 138 260 105s146-8 230 12 148-36 238-18 152 30 242-3 144-8 230 10" stroke-width="1.4"/>
-    <path d="M0 136C110 94 164 150 260 117s146-8 230 12 148-36 238-18 152 30 242-3 144-8 230 10" stroke-width=".7"/>
-  </g>
-  <g fill="#D6B779"><circle cx="158" cy="111" r="3"/><circle cx="490" cy="119" r="3"/><circle cx="728" cy="101" r="3"/><circle cx="1002" cy="111" r="3"/></g>
-  <g class="urf-pulse" fill="#80CFFF"><circle cx="304" cy="103" r="2"/><circle cx="884" cy="108" r="2"/></g>
-  <text class="urf-serif" x="600" y="58" text-anchor="middle" fill="#F2F1ED" font-size="20" font-style="italic">"Building intelligent systems, meaningful products,</text>
-  <text class="urf-serif" x="600" y="86" text-anchor="middle" fill="#D6B779" font-size="20" font-style="italic">and occasionally things that probably shouldn't exist."</text>
-  <text class="urf-mono" x="600" y="119" text-anchor="middle" fill="#80CFFF" font-size="10" letter-spacing="3">UJJWAL RAJ / AI ENGINEER / CREATIVE TECHNOLOGIST</text>
+  <defs><linearGradient id="urf-border" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".55"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".45"/></linearGradient><linearGradient id="urf-line" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".08"/><stop offset=".5" stop-color="#D6B779" stop-opacity=".38"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".12"/></linearGradient></defs>
+  <style>.urf-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}.urf-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}.urf-pulse{animation:urf-pulse 3.4s ease-in-out infinite}@keyframes urf-pulse{0%,100%{opacity:.25}50%{opacity:.7}}@media(prefers-reduced-motion:reduce){.urf-pulse{animation:none;opacity:.5}}</style>
+  <rect width="1200" height="210" rx="18" fill="#090B10" stroke="url(#urf-border)"/>
+  <text class="urf-serif" x="600" y="52" text-anchor="middle" fill="#F2F1ED" font-size="23" font-style="italic">"Building intelligent systems, meaningful products,</text>
+  <text class="urf-serif" x="600" y="82" text-anchor="middle" fill="#D6B779" font-size="23" font-style="italic">and occasionally things that probably shouldn't exist."</text>
+  <text class="urf-mono" x="600" y="116" text-anchor="middle" fill="#80CFFF" font-size="10" letter-spacing="3">UJJWAL RAJ / AI ENGINEER / CREATIVE TECHNOLOGIST</text>
+  <g fill="none" stroke="url(#urf-line)" stroke-linecap="round"><path d="M0 180C110 144 164 192 260 164s146-8 230 10 148-30 238-16 152 28 242-2 144-8 230 8" stroke-width="1.4"/><path d="M0 192C110 156 164 204 260 176s146-8 230 10 148-30 238-16 152 28 242-2 144-8 230 8" stroke-width=".7"/></g>
+  <g fill="#D6B779" opacity=".55"><circle cx="158" cy="170" r="3"/><circle cx="490" cy="180" r="3"/><circle cx="728" cy="166" r="3"/><circle cx="1002" cy="171" r="3"/></g><g class="urf-pulse" fill="#80CFFF"><circle cx="304" cy="164" r="2"/><circle cx="884" cy="168" r="2"/></g>
 </svg>

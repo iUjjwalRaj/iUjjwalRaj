@@ -1,7 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="urro-title urro-desc">
   <title id="urro-title">Ronova project card</title><desc id="urro-desc">Ronova is a React interactive web experience with scroll-driven transitions and atmospheric design.</desc>
   <defs><linearGradient id="urro-border" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".6"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".45"/></linearGradient></defs>
-  <style>.urro-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}.urro-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}.urro-in{opacity:1;animation:urro-in 1s cubic-bezier(.16,1,.3,1) forwards}@keyframes urro-in{from{opacity:1;transform:translateY(10px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.urro-in{opacity:1;animation:none}}</style>
-  <rect width="1200" height="300" rx="18" fill="#141821" stroke="url(#urro-border)"/><g fill="none" stroke="#D6B779"><path d="M760 70l104 58v116l-104-58zM864 128l104-58v116l-104 58zM760 70l104-58 104 58M760 186l104 58 104-58" stroke="#8B7CFF"/><path d="M786 94v116m52-144v174m52-144v116" stroke="#80CFFF" stroke-opacity=".45"/></g>
+  <style>.urro-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}.urro-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}.urro-cube{animation:urro-float 6s ease-in-out infinite}@keyframes urro-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}.urro-in{opacity:1;animation:urro-in 1s cubic-bezier(.16,1,.3,1) forwards}@keyframes urro-in{from{opacity:1;transform:translateY(10px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.urro-cube{animation:none}.urro-in{opacity:1;animation:none}}</style>
+  <rect width="1200" height="300" rx="18" fill="#141821" stroke="url(#urro-border)"/>
+  <g class="urro-cube" fill="none" stroke-linejoin="round" transform="translate(0 0)">
+    <path d="M1010 66L1080 106L1080 186L1010 226L940 186L940 106Z" stroke="#D6B779" stroke-width="2"/>
+    <path d="M1010 66L1010 146M940 106L1010 146L1080 106M940 186L1010 146L1080 186" stroke="#8B7CFF" stroke-width="2"/>
+    <path d="M1010 146L1010 226M940 106L940 186M1080 106L1080 186" stroke="#80CFFF" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="5 6"/>
+  </g>
+  <ellipse cx="1010" cy="146" rx="155" ry="48" fill="none" stroke="#8B7CFF" stroke-opacity=".45" transform="rotate(-12 1010 146)"/>
   <g class="urro-in"><text class="urro-mono" x="58" y="48" fill="#80CFFF" font-size="11" letter-spacing="3">05 / INTERACTIVE WEB EXPERIENCE</text><text class="urro-serif" x="56" y="130" fill="#F2F1ED" font-size="64">Ronova</text><text class="urro-mono" x="58" y="176" fill="#D6B779" font-size="15">A cinematic frontend built for scroll-driven transitions,</text><text class="urro-mono" x="58" y="202" fill="#D6B779" font-size="15">atmosphere, and responsive exploration.</text><text class="urro-mono" x="58" y="248" fill="#80CFFF" font-size="12" letter-spacing="2">REACT · VITE · CLOUDFLARE · WRANGLER</text></g>
 </svg>
