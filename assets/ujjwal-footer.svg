@@ -1,17 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="footer-title footer-desc">
-  <title id="footer-title">Ujjwal Raj closing statement</title>
-  <desc id="footer-desc">A restrained neural network with gold particles and violet illumination.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="urf-title urf-desc">
+  <title id="urf-title">Ujjwal Raj closing statement</title>
+  <desc id="urf-desc">A restrained midnight neural network with champagne-gold nodes, violet paths, and Ujjwal Raj's philosophy.</desc>
   <defs>
-    <linearGradient id="footer-bg-2"><stop stop-color="#07090D"/><stop offset=".5" stop-color="#1D2330"/><stop offset="1" stop-color="#090B10"/></linearGradient>
-    <linearGradient id="footer-line-2"><stop stop-color="#D6B779" stop-opacity=".08"/><stop offset=".5" stop-color="#D6B779"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".3"/></linearGradient>
+    <linearGradient id="urf-border" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".55"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".45"/></linearGradient>
+    <linearGradient id="urf-line" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".15"/><stop offset=".5" stop-color="#D6B779"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".25"/></linearGradient>
   </defs>
-  <rect width="1200" height="190" rx="16" fill="url(#footer-bg-2)" stroke="#D6B779" stroke-opacity=".16"/>
-  <g fill="none" stroke="url(#footer-line-2)" stroke-linecap="round">
-    <path d="M0 136C106 88 168 165 271 119s147-2 246 20 153-52 257-20 174 31 250-4 108-17 176 7" stroke-width="1.5"/>
-    <path d="M0 154C106 106 168 183 271 137s147-2 246 20 153-52 257-20 174 31 250-4 108-17 176 7" stroke-width=".8"/>
+  <style>
+    .urf-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+    .urf-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .urf-pulse{animation:urf-pulse 3.4s ease-in-out infinite}
+    @keyframes urf-pulse{0%,100%{opacity:.25}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.urf-pulse{animation:none;opacity:.7}}
+  </style>
+  <rect width="1200" height="150" rx="18" fill="#090B10" stroke="url(#urf-border)"/>
+  <g fill="none" stroke="url(#urf-line)" stroke-linecap="round">
+    <path d="M0 124C110 82 164 138 260 105s146-8 230 12 148-36 238-18 152 30 242-3 144-8 230 10" stroke-width="1.4"/>
+    <path d="M0 136C110 94 164 150 260 117s146-8 230 12 148-36 238-18 152 30 242-3 144-8 230 10" stroke-width=".7"/>
   </g>
-  <g fill="#D6B779"><circle cx="168" cy="137" r="3"/><circle cx="517" cy="139" r="3"/><circle cx="774" cy="116" r="3"/><circle cx="1024" cy="112" r="3"/></g>
-  <g fill="#80CFFF" opacity=".8"><circle cx="296" cy="119" r="1.7"><animate attributeName="opacity" values=".1;1;.1" dur="3s" repeatCount="indefinite"/></circle><circle cx="920" cy="126" r="1.7"><animate attributeName="opacity" values=".1;1;.1" dur="4s" repeatCount="indefinite"/></circle></g>
-  <text x="600" y="68" fill="#F2F1ED" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">BUILDING INTELLIGENT SYSTEMS, MEANINGFUL PRODUCTS,</text>
-  <text x="600" y="97" fill="#D6B779" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">AND OCCASIONALLY THINGS THAT PROBABLY SHOULDN'T EXIST.</text>
+  <g fill="#D6B779"><circle cx="158" cy="111" r="3"/><circle cx="490" cy="119" r="3"/><circle cx="728" cy="101" r="3"/><circle cx="1002" cy="111" r="3"/></g>
+  <g class="urf-pulse" fill="#80CFFF"><circle cx="304" cy="103" r="2"/><circle cx="884" cy="108" r="2"/></g>
+  <text class="urf-serif" x="600" y="58" text-anchor="middle" fill="#F2F1ED" font-size="20" font-style="italic">"Building intelligent systems, meaningful products,</text>
+  <text class="urf-serif" x="600" y="86" text-anchor="middle" fill="#D6B779" font-size="20" font-style="italic">and occasionally things that probably shouldn't exist."</text>
+  <text class="urf-mono" x="600" y="119" text-anchor="middle" fill="#80CFFF" font-size="10" letter-spacing="3">UJJWAL RAJ / AI ENGINEER / CREATIVE TECHNOLOGIST</text>
 </svg>

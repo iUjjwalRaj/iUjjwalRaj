@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="urac-title urac-desc">
+  <title id="urac-title">About Ujjwal Raj</title>
+  <desc id="urac-desc">A YAML-styled profile card describing Ujjwal Raj, his education, focus, interests, and philosophy.</desc>
+  <defs>
+    <linearGradient id="urac-border" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".55"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".45"/></linearGradient>
+    <linearGradient id="urac-sheen" x1="-260" x2="0"><stop stop-color="#D6B779"/><stop offset=".5" stop-color="#F2F1ED"/><stop offset="1" stop-color="#D6B779"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;1460 0;1460 0" keyTimes="0;.42;1" dur="8s" repeatCount="indefinite"/></linearGradient>
+  </defs>
+  <style>
+    .urac-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .urac-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+    .urac-in{opacity:1;animation:urac-in 1s cubic-bezier(.16,1,.3,1) forwards}
+    @keyframes urac-in{from{opacity:1;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @media(prefers-reduced-motion:reduce){.urac-in{opacity:1;animation:none}}
+  </style>
+  <rect width="1200" height="360" rx="18" fill="#090B10" stroke="url(#urac-border)"/>
+  <path d="M32 64H1168M32 306H1168" stroke="#1D2330"/>
+  <text class="urac-mono" x="48" y="42" fill="#80CFFF" font-size="11" letter-spacing="3">PROFILE / UJJWAL RAJ / 01</text>
+  <text class="urac-mono" x="1152" y="42" text-anchor="end" fill="#D6B779" font-size="11" letter-spacing="2">SYSTEM NOTE: HUMAN IN THE LOOP</text>
+  <g class="urac-in urac-mono" font-size="15">
+    <text x="60" y="98" fill="#8B7CFF">identity:</text><text x="210" y="98" fill="#F2F1ED">Ujjwal Raj</text>
+    <text x="60" y="134" fill="#8B7CFF">education:</text><text x="210" y="134" fill="#F2F1ED">B.Tech, Artificial Intelligence Engineering</text>
+    <text x="60" y="170" fill="#8B7CFF">institute:</text><text x="210" y="170" fill="#F2F1ED">IIT Jodhpur</text>
+    <text x="60" y="206" fill="#8B7CFF">focus:</text><text x="210" y="206" fill="#F2F1ED">AI/ML · computer vision · edge AI · autonomous systems</text>
+    <text x="60" y="242" fill="#8B7CFF">interests:</text><text x="210" y="242" fill="#F2F1ED">full-stack · backend · real-time systems · creative AI</text>
+  </g>
+  <g class="urac-in">
+    <path d="M810 92h310v156H810z" fill="#141821" stroke="#1D2330"/>
+    <text class="urac-mono" x="840" y="124" fill="#80CFFF" font-size="11" letter-spacing="2">philosophy:</text>
+    <text class="urac-serif" x="840" y="157" fill="url(#urac-sheen)" font-size="18" font-style="italic">"Building intelligent systems,</text>
+    <text class="urac-serif" x="840" y="184" fill="#F2F1ED" font-size="18" font-style="italic">meaningful products, and</text>
+    <text class="urac-serif" x="840" y="211" fill="#F2F1ED" font-size="18" font-style="italic">occasionally things that</text>
+    <text class="urac-serif" x="840" y="238" fill="#F2F1ED" font-size="18" font-style="italic">shouldn't exist."</text>
+  </g>
+  <circle cx="60" cy="326" r="3" fill="#D6B779"/><text class="urac-mono" x="76" y="330" fill="#D6B779" font-size="11" letter-spacing="2">BUILD WITH INTENT / SHIP WITH CURIOSITY</text>
+</svg>

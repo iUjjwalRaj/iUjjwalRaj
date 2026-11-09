@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="urrc-title urrc-desc">
+  <title id="urrc-title">Recognition earned by Ujjwal Raj</title>
+  <desc id="urrc-desc">NTSE All India Rank 4 and 18 gold medals across international Olympiads including IJSO, IMO, and IPO.</desc>
+  <defs><linearGradient id="urrc-border" x1="0" x2="1"><stop stop-color="#D6B779" stop-opacity=".55"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".45"/></linearGradient><radialGradient id="urrc-glow"><stop stop-color="#D6B779" stop-opacity=".28"/><stop offset="1" stop-color="#D6B779" stop-opacity="0"/></radialGradient></defs>
+  <style>.urrc-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}.urrc-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}.urrc-in{opacity:1;animation:urrc-in 1s cubic-bezier(.16,1,.3,1) forwards}@keyframes urrc-in{from{opacity:1;transform:translateY(10px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.urrc-in{opacity:1;animation:none}}</style>
+  <rect width="1200" height="240" rx="18" fill="#090B10" stroke="url(#urrc-border)"/><circle cx="1040" cy="120" r="170" fill="url(#urrc-glow)"/>
+  <text class="urrc-mono" x="48" y="42" fill="#80CFFF" font-size="11" letter-spacing="3">RECOGNITION / ON THE RECORD</text>
+  <g class="urrc-in"><text class="urrc-mono" x="72" y="105" fill="#D6B779" font-size="16" letter-spacing="2">01</text><text class="urrc-serif" x="130" y="106" fill="#F2F1ED" font-size="28">NTSE</text><text class="urrc-mono" x="260" y="105" fill="#80CFFF" font-size="14" letter-spacing="2">ALL INDIA RANK 4</text></g>
+  <path d="M48 132H1152" stroke="#1D2330"/>
+  <g class="urrc-in"><text class="urrc-mono" x="72" y="190" fill="#D6B779" font-size="16" letter-spacing="2">02</text><text class="urrc-serif" x="130" y="191" fill="#F2F1ED" font-size="28">Olympiads</text><text class="urrc-mono" x="360" y="190" fill="#80CFFF" font-size="14" letter-spacing="2">18 GOLD MEDALS · IJSO · IMO · IPO · AND OTHERS</text></g>
+  <circle cx="1120" cy="82" r="5" fill="#D6B779"/><circle cx="1144" cy="82" r="2" fill="#80CFFF"/><circle cx="1120" cy="106" r="2" fill="#80CFFF"/>
+</svg>
