@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="footer-title footer-desc">
+  <title id="footer-title">Ujjwal Raj closing statement</title>
+  <desc id="footer-desc">A restrained neural network with gold particles and violet illumination.</desc>
+  <defs>
+    <linearGradient id="footer-bg-2"><stop stop-color="#07090D"/><stop offset=".5" stop-color="#1D2330"/><stop offset="1" stop-color="#090B10"/></linearGradient>
+    <linearGradient id="footer-line-2"><stop stop-color="#D6B779" stop-opacity=".08"/><stop offset=".5" stop-color="#D6B779"/><stop offset="1" stop-color="#8B7CFF" stop-opacity=".3"/></linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="16" fill="url(#footer-bg-2)" stroke="#D6B779" stroke-opacity=".16"/>
+  <g fill="none" stroke="url(#footer-line-2)" stroke-linecap="round">
+    <path d="M0 136C106 88 168 165 271 119s147-2 246 20 153-52 257-20 174 31 250-4 108-17 176 7" stroke-width="1.5"/>
+    <path d="M0 154C106 106 168 183 271 137s147-2 246 20 153-52 257-20 174 31 250-4 108-17 176 7" stroke-width=".8"/>
+  </g>
+  <g fill="#D6B779"><circle cx="168" cy="137" r="3"/><circle cx="517" cy="139" r="3"/><circle cx="774" cy="116" r="3"/><circle cx="1024" cy="112" r="3"/></g>
+  <g fill="#80CFFF" opacity=".8"><circle cx="296" cy="119" r="1.7"><animate attributeName="opacity" values=".1;1;.1" dur="3s" repeatCount="indefinite"/></circle><circle cx="920" cy="126" r="1.7"><animate attributeName="opacity" values=".1;1;.1" dur="4s" repeatCount="indefinite"/></circle></g>
+  <text x="600" y="68" fill="#F2F1ED" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">BUILDING INTELLIGENT SYSTEMS, MEANINGFUL PRODUCTS,</text>
+  <text x="600" y="97" fill="#D6B779" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">AND OCCASIONALLY THINGS THAT PROBABLY SHOULDN'T EXIST.</text>
+</svg>

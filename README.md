@@ -1,92 +1,29 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Ujjwal%20Raj&fontSize=52&fontAlignY=38&desc=AI%2FML%20Undergrad%20%40%20IIT%20Jodhpur%20%7C%20Edge%20AI%20%26%20Computer%20Vision&descAlignY=62&descAlign=50" width="100%"/>
-</div>
+<a href="https://ujjwalraj.online"><img src="assets/ujjwal-hero.svg" width="100%" alt="Ujjwal Raj — AI Engineer and Creative Technologist. A midnight neural network with a UR monogram."></a>
 
-<div align="center">
-  <a href="https://ujjwalraj.online">
-    <img src="https://img.shields.io/badge/Portfolio-ujjwalraj.online-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:UjjwalRaj1745@icloud.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=icloud&logoColor=white" />
-  </a>
-  <a href="https://github.com/iUjjwalRaj">
-    <img src="https://img.shields.io/badge/GitHub-iUjjwalRaj-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-IIT%20Jodhpur-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://ujjwalraj.online"><img src="https://img.shields.io/badge/PORTFOLIO-ujjwalraj.online-D6B779?style=for-the-badge&labelColor=090B10" alt="Ujjwal Raj portfolio"></a>
+  <a href="https://github.com/iUjjwalRaj"><img src="https://img.shields.io/badge/GITHUB-iUjjwalRaj-80CFFF?style=for-the-badge&labelColor=090B10&logo=github&logoColor=80CFFF" alt="Ujjwal Raj GitHub profile"></a>
+</p>
 
-<br/>
+<img src="assets/title-about.svg" width="100%" alt="01 About — Building intelligent systems.">
+<!-- Pass 2: About card -->
 
-### ⚡ About Me
+<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Earned, not claimed.">
+<!-- Pass 2: Recognition card -->
 
-```yaml
-Name: Ujjwal Raj
-Affiliation: Indian Institute of Technology (IIT) Jodhpur
-Focus: Edge AI, Real-time Computer Vision, Autonomous Systems & Applied ML
-Philosophy: "Building edge AI, computer vision systems, and weird things that probably didn't need to exist."
-```
+<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Things that shouldn't exist.">
+<!-- Pass 2: six project cards -->
 
-### 🎖️ GitHub Achievements & Badges
+<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — What I build with.">
+<!-- Pass 2: verified toolkit tiles -->
 
-<div align="center">
-  <a href="https://github.com/iUjjwalRaj?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO" title="YOLO: Merged PR without review" />
-  </a>
-  <a href="https://github.com/iUjjwalRaj?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark" title="Pull Shark: 16+ Merged Pull Requests" />
-  </a>
-  <a href="https://github.com/iUjjwalRaj?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" title="Quickdraw: Closed within 5 minutes" />
-  </a>
-  <a href="https://github.com/iUjjwalRaj?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-765f6f7c10b7.png" width="70" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits" />
-  </a>
-</div>
+<img src="assets/title-activity.svg" width="100%" alt="05 Activity — Shipping, one commit at a time.">
+<!-- Pass 3: generated public contribution SVG -->
 
-<br/>
+<img src="assets/title-connect.svg" width="100%" alt="06 Connect — Let's build something strange.">
+<p align="center">
+  <a href="https://ujjwalraj.online"><img src="https://img.shields.io/badge/PORTFOLIO-ujjwalraj.online-D6B779?style=for-the-badge&labelColor=090B10" alt="Ujjwal Raj portfolio"></a>
+  <a href="https://github.com/iUjjwalRaj"><img src="https://img.shields.io/badge/GITHUB-iUjjwalRaj-80CFFF?style=for-the-badge&labelColor=090B10&logo=github&logoColor=80CFFF" alt="Ujjwal Raj GitHub profile"></a>
+</p>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iUjjwalRaj&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Ujjwal's GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iUjjwalRaj&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iUjjwalRaj&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iUjjwalRaj&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-|---|---|
-| **AI / Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=flat-square&logo=onnx&logoColor=white) |
-| **Edge & Embedded AI** | ![NVIDIA](https://img.shields.io/badge/NVIDIA%20Jetson-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Infra & Platforms** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-
-</div>
-
-<br/>
-
-### 🚀 Key Projects
-
-- **[RONOVA](https://github.com/iUjjwalRaj/RONOVA)**: Cinematic interactive fan experience & intelligent dynamic visual interaction system.
-- **[RAAHI](https://github.com/iUjjwalRaj/RAAHI)**: AI-driven urban transit and smart mobility orchestration engine.
-- **[gas-turbine](https://github.com/iUjjwalRaj/gas-turbine)**: Evidence-grounded aerodynamic and turbine health modeling.
-- **[2D-Game_Engine](https://github.com/iUjjwalRaj/2D-Game_Engine)**: Custom 2D graphics and physics engine built from scratch.
-- **[Library Management System](https://github.com/iUjjwalRaj/Library_Management_System)**: Full-stack circulation and inventory platform with JWT authentication.
+<img src="assets/ujjwal-footer.svg" width="100%" alt="Building intelligent systems, meaningful products, and occasionally things that probably shouldn't exist.">

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 18" role="img" aria-label="Section divider">
+  <defs><linearGradient id="divider-2"><stop stop-color="#D6B779" stop-opacity="0"/><stop offset=".5" stop-color="#D6B779"/><stop offset="1" stop-color="#8B7CFF" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 9H486l14-5 14 10 14-5h672" fill="none" stroke="url(#divider-2)" stroke-width="1"/>
+  <circle cx="514" cy="9" r="2.5" fill="#D6B779"/><circle cx="514" cy="9" r="5" fill="none" stroke="#8B7CFF" stroke-opacity=".45"/>
+</svg>
